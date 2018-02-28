@@ -19,4 +19,4 @@ conan build . --build-folder build
 ```
 
 This will create the solution for your OS, depending of the build generator used by cmake. By default, on windows, if you have Visual Studio installed, it will take the msvs generator.
-So that will create a sln solution for Visual Studio, in your /build folder, and compile the code to an executable file (again, on windows), in the /build/bin folder, as we expect.
+So that will create a sln solution for Visual Studio in the /build folder, and compile the code to an executable file (again, on windows), in the /build/bin folder, as we expect.
