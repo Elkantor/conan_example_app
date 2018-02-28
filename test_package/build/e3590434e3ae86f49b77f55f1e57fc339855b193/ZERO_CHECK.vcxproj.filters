@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\V_GALLET\Documents\test_conan\test_package\build\e3590434e3ae86f49b77f55f1e57fc339855b193\CMakeFiles\a8cde07e3131a79fb32d0b6f71a8f842\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A05776DB-9A6A-3AA6-A8DB-18180DF14D80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
