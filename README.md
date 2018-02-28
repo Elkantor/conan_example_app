@@ -1,8 +1,8 @@
 # conan_example_app
-Example repository to build a project by using the conan (cmake under the hood) C++ package manager.
+Example repository to build a project by using the conan (which use cmake under the hood as build system) C++ package manager.
 
 To test this project (named ether, with the sources in the /ether folder), you need to install conan and the msvs tools on windows (or MinGW to have access to the gcc compiler, because conan will always find your C++ compiler by himself).
-The best way to install conan is to use tools like chocolatey on windows, for example.
+The best way to install conan is to use tools like [chocolatey on windows](https://chocolatey.org/packages/conan), for example.
 
 Once you have conan installed, you can type the following command: 
 
